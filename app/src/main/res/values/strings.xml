@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RESTAPIAndroid</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="alamat">Alamat Tempat Tinggal</string>
+    <string name="phone">Nomor Telepon</string>
+    <string name="ttl">Tempat Tanggal Lahir</string>
+    <string name="pendidikan">Pendidikan</string>
+    <string name="email">Email</string>
+    <string name="simpan">Simpan</string>
+    <string name="insert_users">Insert Users</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="updatedelete_users">Update dan Delete Users</string>
+</resources>
